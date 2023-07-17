@@ -41,7 +41,7 @@ const TechStack = () => {
             <img
                 src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg"
                 width={48}
-            />
+            />{" "}
         </>
     );
 };
